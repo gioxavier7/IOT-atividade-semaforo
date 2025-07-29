@@ -1,5 +1,5 @@
 # 🚦 Semáforo com ESP32 usando MicroPython (IoT - SENAI)
-![Tela Principal](.wokwi.png)
+![Tela Principal](./wokwi.png)
 
 ## 📚 Sobre o Projeto
 
